@@ -16,3 +16,6 @@
 * [x] [Function composition](https://www.codewars.com/kata/5655c60db4c2ce0c2e000026)
 * [x] ["Stringing"+"Me"+"Along"](https://www.codewars.com/kata/55f4a44eb72a0fa91600001e)
 * [x] [new with apply](https://www.codewars.com/kata/53c7da8baf72924af8000405)
+* [x] [Extract Nested Object Reference](https://www.codewars.com/kata/527a6e602a7db3456e000a2b)
+* [x] [Array Helpers](https://www.codewars.com/kata/525d50d2037b7acd6e000534)
+* [x] [Sum of Digits / Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00)

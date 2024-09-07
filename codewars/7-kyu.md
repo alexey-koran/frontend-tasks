@@ -27,4 +27,6 @@
 * [x] [Sequence generator](https://www.codewars.com/kata/56ba8a9b022c16017d0001f3)
 * [x] [Fun with ES6 Classes #2 - Animals and Inheritance](https://www.codewars.com/kata/56f935002e6c0d55fa000d92)
 * [x] [Fun with ES6 Classes #3 - Cuboids, Cubes and Getters](https://www.codewars.com/kata/56fbdda707cff41b68000de2)
-* [x]
+* [x] [Anagram Detection](https://www.codewars.com/kata/529eef7a9194e0cbc1000255)
+* [x] [You Complete Me](https://www.codewars.com/kata/63967eb85e54bd00237d2201)
+* [x] [The Newest Function](https://www.codewars.com/kata/5a2cb53cee1aaef2fa000037)

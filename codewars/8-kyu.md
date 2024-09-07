@@ -10,3 +10,6 @@
 * [x] [Count words](https://www.codewars.com/kata/570cc83df616a85944001315)
 * [x] [Remove First and Last Character Part Two](https://www.codewars.com/kata/570597e258b58f6edc00230d)
 * [x] [Implement Array.prototype.filter()](https://www.codewars.com/kata/56dd9b84fe5754786f0014f7)
+* [x] [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004)
+* [x] [Reversed Strings](https://www.codewars.com/kata/5168bb5dfe9a00b126000018)
+* [x] [Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
