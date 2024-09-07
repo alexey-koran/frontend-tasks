@@ -2,11 +2,21 @@
   "name": "frontend-tasks",
   "version": "0.0.1",
   "description": "Tasks to improve FE skills",
-  "main": "index.js",
+  "main": "",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "prettier": "prettier --check \"**/*.{md,js}\"",
+    "prettier:fix": "prettier --write \"**/*.{md,js}\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexey-koran/frontend-tasks.git"
   },
   "keywords": [],
+  "bugs": {
+    "url": "https://github.com/alexey-koran/frontend-tasks/issues"
+  },
+  "homepage": "https://github.com/alexey-koran/frontend-tasks#readme",
   "author": "Alexey-Koran <alexey.koran@gmail.com>",
   "license": "GPL-3.0-only",
   "devDependencies": {
