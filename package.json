@@ -1,0 +1,16 @@
+{
+  "name": "frontend-tasks",
+  "version": "0.0.1",
+  "description": "Tasks to improve FE skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alexey-Koran <alexey.koran@gmail.com>",
+  "license": "GPL-3.0-only",
+  "devDependencies": {
+    "@alexey-koran/prettier-config": "^0.1.1",
+    "prettier": "^3.3.3"
+  }
+}
