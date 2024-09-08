@@ -6,4 +6,4 @@ This repository contains tasks to improve your frontend skills
 
 [Codewars profile](https://www.codewars.com/users/alexey-koran)
 
-![Codewars](https://github.r2v.ch/codewars?user=alexey-koran&top_languages=true)
+![Codewars](https://www.codewars.com/users/alexey-koran/badges/large)
