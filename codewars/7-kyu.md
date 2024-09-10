@@ -24,3 +24,5 @@
 | 20  | <ul><li> [x] </li></ul> | [Homogenous arrays](https://www.codewars.com/kata/57ef016a7b45ef647a00002d)                                         | `09/09/2024` |
 | 21  | <ul><li> [x] </li></ul> | [Number-like counter](https://www.codewars.com/kata/5313b713bb244a0eb20001fe)                                       | `09/09/2024` |
 | 22  | <ul><li> [x] </li></ul> | [Playing with Sets : Intersection](https://www.codewars.com/kata/5884d46015a70f6cd7000035)                          | `09/09/2024` |
+| 22  | <ul><li> [x] </li></ul> | [Geometry Basics: Dot Product in 3D](https://www.codewars.com/kata/58e3ea29a33b52c1dc0000c0)                        | `10/09/2024` |
+| 22  | <ul><li> [x] </li></ul> | [Clear Passage](https://www.codewars.com/kata/63a2b523e37cea002372e649)                                             | `10/09/2024` |
