@@ -10,3 +10,4 @@
 | 6   | <ul><li> [x] </li></ul> | ["Stringing"+"Me"+"Along"](https://www.codewars.com/kata/55f4a44eb72a0fa91600001e)        | `21/04/2020` |
 | 7   | <ul><li> [x] </li></ul> | [new with apply](https://www.codewars.com/kata/53c7da8baf72924af8000405)                  | `21/04/2020` |
 | 8   | <ul><li> [x] </li></ul> | [Sum of Digits / Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00)    | `21/04/2020` |
+| 9   | <ul><li> [x] </li></ul> | [Sum #1](https://www.codewars.com/kata/58733d9b0e9cf3a824000050)                          | `10/09/2024` |
