@@ -17,9 +17,9 @@ const A = () =>
     const result = true;
 
     if (result) {
-      resolve('success');
+      resolve('A success');
     } else {
-      reject(new Error('reject'));
+      reject(new Error('A reject'));
     }
   });
 
@@ -81,3 +81,36 @@ C()
   .then((_) => console.log('C 2'))
   .catch((e) => console.log(e.message))
   .then((_) => console.log('C 3'));
+
+// -------------------------------------------------
+
+// Реализовать функцию D, чтобы в цепочке промисов сработал первый и последующий за ним catch
+
+const D = () =>
+  new Promise((resolve, reject) => {
+    const result = false;
+
+    if (result) {
+      resolve('D success');
+    } else {
+      reject(new Error('D reject'));
+    }
+  });
+
+try {
+  await D();
+  console.log('D await 1');
+} catch (error) {
+  console.log(error.message);
+}
+
+D()
+  .then((_) => console.log('D 1'))
+  .catch((e) => {
+    console.log(`D ${e.message}`);
+    throw Error(`D ${e.message}`);
+  })
+  .catch((e) => console.log(e.message))
+  .then((_) => console.log('D 2'))
+  .catch((e) => console.log(e.message))
+  .then((_) => console.log('D 3'));
