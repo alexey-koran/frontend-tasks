@@ -40,6 +40,13 @@ try {
   console.log(error.message);
 }
 
+try {
+  await A();
+  console.log('A await 2');
+} catch (error) {
+  console.log(error.message);
+}
+
 // -------------------------------------------------
 
 // Реализовать функцию B, чтобы в цепочке промисов сработал первый catch
@@ -55,6 +62,13 @@ B()
   .then((_) => console.log('B 2'))
   .catch((e) => console.log(e.message))
   .then((_) => console.log('B 3'));
+
+try {
+  await B();
+  console.log('B await 1');
+} catch (error) {
+  console.log(`B await 1 ${error.message}`);
+}
 
 // -------------------------------------------------
 
@@ -107,8 +121,8 @@ try {
 D()
   .then((_) => console.log('D 1'))
   .catch((e) => {
-    console.log(`D ${e.message}`);
-    throw Error(`D ${e.message}`);
+    console.log(`1 ${e.message}`);
+    throw Error(`2 ${e.message}`);
   })
   .catch((e) => console.log(e.message))
   .then((_) => console.log('D 2'))
