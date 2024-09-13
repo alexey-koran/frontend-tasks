@@ -15,3 +15,5 @@ Promise.resolve().then(() => console.log(7));
 setTimeout(() => console.log(8));
 
 console.log(9);
+
+// 1, 3, 4, 6, 9, 7, 2, 5, 8
